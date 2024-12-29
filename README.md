@@ -1,6 +1,6 @@
 # 📝 Mon CV - Application Web  
 
-Bienvenue dans **Mon CV**, une application web interactive et moderne développée en React.js et stylisée avec SCSS. Ce projet met en avant mon parcours professionnel et mes compétences à travers une interface intuitive et élégante.  
+Bienvenue dans **Mon CV**, une application développée en React.js. Ce projet met en avant mon parcours professionnel et mes compétences.  
 
 🌐 **Lien vers le site** : [mickael-suard.fr](https://mickael-suard.fr)  
 
