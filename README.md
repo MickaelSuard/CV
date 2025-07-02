@@ -2,7 +2,7 @@
 
 Bienvenue dans **Mon CV**, une application développée en React.js. Ce projet met en avant mon parcours professionnel et mes compétences.  
 
-🌐 **Lien vers le site** : [mickael-suard.fr](https://mickael-suard.fr)  
+🌐 **Lien vers le site** : [mickael-suard.fr](https://mickaelsuard.github.io/CV/)  
 
 ---
 
